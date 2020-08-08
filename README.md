@@ -1,4 +1,4 @@
-<p align="center"> <img src=" https://github-readme-stats.vercel.app/api?username=Phantom-19&show_icons=true&theme=dark"/></br>
+<p align="center"> <img src="https://raw.githubusercontent.com/Phantom-19/bash/master/fr.jpg" height="400"  width="400"></br>
 <img align="center" alt="profile pic" width="195px" src="https://raw.githubusercontent.com/Phantom-19/bash/master/fr.jpg"/>
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Phantom-19&layout=compact&theme=radical"/></br>
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Phantom-19&repo=compiler&theme=radical"/>
@@ -38,7 +38,7 @@
 | Twitter       |[![Twitter](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/Faxel2020)                                  | LICENSE         |[![LICENSE](https://img.shields.io/badge/License-MIT-lightgrey.svg?logo=License-MIT)](https://raw.githubusercontent.com/phantom-19/yutube/master/MIT)|                
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<!-- <p align="center"> <img src="https://raw.githubusercontent.com/Phantom-19/bash/master/fr.jpg" height="400"  width="400">
+<!-- <p align="center"> <img src=" https://github-readme-stats.vercel.app/api?username=Phantom-19&show_icons=true&theme=dark"/>
 <img alt="Phantom-19' Statistiques Github" src="https://github-readme-stats.vercel.app/api?username=Phantom-19&show_icons=true&theme=dark"/>
 <img alt="profile pic" width="195px" src="https://raw.githubusercontent.com/Phantom-19/bash/master/fr.jpg"/> 
 <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Phantom-19&hide=ruby,perl&hide_border=true"/> </p> 
