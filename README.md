@@ -42,3 +42,5 @@
 <img alt="profile pic" width="195px" src="https://raw.githubusercontent.com/Phantom-19/bash/master/fr.jpg"/> 
 <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Phantom-19&hide=ruby,perl&hide_border=true"/> </p> 
 <img alt="Phantom-19' Statistiques Github" src=" https://github-readme-stats.vercel.app/api?username=Phantom-19&show_icons=true&include_all_commits=true&hide_border=true "/>-->
+pip3 install mechanize
+pip3 install proxylist;pip3 install argparse
