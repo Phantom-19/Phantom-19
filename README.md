@@ -24,6 +24,38 @@
                   @@@
                    @
  ``` 
+### `L'éthique des Hackers De Steven Levy`
+  ``` 
+☆▪︎☆▪︎☆▪︎☆▪︎☆▪︎☆▪︎☆▪︎☆▪︎☆▪︎
+L'idée principale de Levy est la notion d'« éthique hacker ». 
+Cette éthique suit six principes:
+— L'accès aux ordinateurs ainsi que tout ce qui peut permettre de comprendre comment le monde fonctionne doit être universel et sans limitations.
+— Il ne faut pas hésiter à se retrousser les manches pour surmonter les difficultés.
+— Toute information doit être libre. 
+— Se méfier de l'autorité 
+— Encourager la décentralisation .
+— Les hackers doivent être jugés selon leurs hacks, et non selon de faux critères comme les diplômes, l'âge, l'origine ethnique ou le rang social.
+On peut créer l'art et le beau à l'aide d'un ordinateur. Les ordinateurs peuvent améliorer notre vie. 
+Moi perso j'étudie les écosystèmes naturels qui sont à l'origine de tous les phénomènes naturels dans le monde.
+Mon objectif à long terme est d'identifier et de définir les mécanismes scientifiques spécifiques à mes principaux domaines de recherche : Répercussions du changement climatique chez les ours polaires,Systèmes de communication chez les moineaux et Exhausteurs de transcription génétique.
+☆▪︎☆▪︎☆▪︎☆▪︎☆▪︎☆▪︎☆▪︎☆▪︎☆▪︎
+ ```
+###  `The Ethics of Hackers By Steven Levy`
+  ``` 
+☆ ▪︎ ☆ ▪︎ ☆ ▪︎ ☆ ▪︎ ☆ ▪︎ ☆ ▪︎ ☆ ▪︎ ☆ ▪︎ ☆ ▪︎ 
+Levy's main idea is the notion of “hacker ethics”.
+This ethics follows six principles:
+- Access to computers as well as anything that can help to understand how the world works must be universal and without limitations.
+- Do not hesitate to roll up your sleeves to overcome difficulties.
+- All information must be free.
+- Beware of authority
+- Encourage decentralization.
+- Hackers must be judged by their hacks, and not by false criteria such as diplomas, age, ethnicity or social rank.
+You can create art and beauty using a computer. Computers can improve our lives.
+Personally, I study the natural ecosystems which are at the origin of all natural phenomena in the world.
+My long-term goal is to identify and define the scientific mechanisms specific to my main areas of research: Impacts of climate change in polar bears, Communication systems in sparrows and Genetic transcription enhancers.
+☆ ▪︎ ☆ ▪︎ ☆ ▪︎ ☆ ▪︎ ☆ ▪︎ ☆ ▪︎ ☆ ▪︎ ☆ ▪︎ ☆ ▪︎
+  ```
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 | Comptes       |                                                                      Liens                                                                       | M |   Comptes       |                                               Liens                                                                                                 |
 |:--------------|:-------------------------------------------------------------------------------------------------------------------------------------------------|---|:----------------|:------------------------------------------------------------------------------------------------------------------------------------------------------
