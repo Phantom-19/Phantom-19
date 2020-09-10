@@ -1,8 +1,10 @@
 <p align="center"> <img src="https://raw.githubusercontent.com/Phantom-19/Border/master/capture/fax2.png" width="500"/></br>
   <img src=" https://github-readme-stats.vercel.app/api?username=Phantom-19&show_icons=true&theme=dark"/>
-  <img alt="Phantom-19' Statistiques Github" src="https://github-readme-stats.vercel.app/api?username=Phantom-19&show_icons=true&theme=dark"/>
+  x
+  
   <img alt="profile pic" width="195px" src="https://raw.githubusercontent.com/Phantom-19/bash/master/fr.jpg"/> 
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Phantom-19&hide=ruby,perl&hide_border=true"/> </p> 
+  <img  align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Phantom-19&hide=ruby,perl&hide_border=true"/> </p> 
+  
   <img alt="Phantom-19' Statistiques Github" src=" https://github-readme-stats.vercel.app/api?username=Phantom-19&show_icons=true&include_all_commits=true&hide_border=true "/>
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Phantom-19&layout=compact&theme=radical"/></br>
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Phantom-19&repo=compiler&theme=radical"/> 
