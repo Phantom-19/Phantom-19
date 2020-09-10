@@ -1,7 +1,5 @@
 <p align="center"> <img src="https://raw.githubusercontent.com/Phantom-19/Border/master/capture/fax2.png" width="500"/></br>
-  <img src=" https://github-readme-stats.vercel.app/api?username=Phantom-19&show_icons=true&theme=dark"/>
-  x
-  
+  <img alt="Phantom-19' Statistiques Github" src="https://github-readme-stats.vercel.app/api?username=Phantom-19&show_icons=true&theme=dark"/>
   <img alt="profile pic" width="195px" src="https://raw.githubusercontent.com/Phantom-19/bash/master/fr.jpg"/> 
   <img  align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Phantom-19&hide=ruby,perl&hide_border=true"/> </p> 
   
