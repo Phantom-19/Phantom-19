@@ -3,7 +3,7 @@
   <img alt="profile pic" width="222px" src="https://raw.githubusercontent.com/Phantom-19/bash/master/fr.jpg"/></br>
   <img src="https://github-readme-stats.vercel.app/api?username=Phantom-19&show_icons=true&theme=dark"/>
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Phantom-19&layout=compact&theme=radical"/>
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Phantom-19&repo=compiler&theme=radical"/></br>
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Phantom-19&repo=compiler&theme=radical"/></br>
 </p>
 
 ```       
