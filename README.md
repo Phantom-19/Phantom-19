@@ -5,8 +5,6 @@
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Phantom-19&layout=compact&theme=radical"/></br>
   
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Phantom-19&repo=compiler&theme=radical"/> 
-
-  <img  align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Phantom-19&hide=ruby,perl&hide_border=true"/>
 </p>
 
 ```       
